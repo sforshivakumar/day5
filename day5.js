@@ -1,6 +1,7 @@
 
 //Anonymous function:
-//A)
+//A)Print odd numbers in an array
+
 var odd_number=function(a){
     var  res="";
     for(i=0;i<a.length-1;i++)
